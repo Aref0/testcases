@@ -30,7 +30,7 @@ public class Configuration {
     
     public static class Set_path_to_geckodriver{
     
-    public static String geckodriver = "geckodriver01";
+    public static String geckodriver = "geckodriver";
         
     }
     
