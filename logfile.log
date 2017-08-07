@@ -1,0 +1,150 @@
+2017-08-07 03:09:13,300 INFO  [Base_test] ************************************ 
+2017-08-07 03:09:13,301 INFO  [Base_test] @BeforeSuite: test_Suite_setup 
+2017-08-07 03:09:13,301 INFO  [Base_test] ************************************ 
+2017-08-07 03:09:17,350 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:17,350 INFO  [Base_test] @BeforeClass: navigte to Western​genre page 
+2017-08-07 03:09:33,336 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:33,358 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:33,360 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:09:33,403 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:33,405 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:33,405 INFO  [Base_test] @Test: sort_using_IMDb_Rating 
+2017-08-07 03:09:38,103 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. Jonah Hex (2010)
+PG-13 | 81 min | Action, Drama, Fantasy
+4.7 Rate this
+33 Metascore
+The U.S. military makes a scarred bounty hunter with warrants on his own head an offer he cannot refuse: in exchange for his freedom, he must stop a terrorist who is ready to unleash Hell on Earth.
+Director: Jimmy Hayward | Stars: Josh Brolin, Megan Fox, John Malkovich, Michael Fassbender
+Votes: 48,159 | Gross: $10.54M 
+2017-08-07 03:09:38,104 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:38,113 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:38,113 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:09:38,114 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:38,114 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:38,114 INFO  [Base_test] @Test: sort_using_US_Box_Office 
+2017-08-07 03:09:51,285 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. Dances with Wolves (1990)
+PG-13 | 181 min | Adventure, Drama, Western
+8.0 Rate this
+72 Metascore
+Lt. John Dunbar, exiled to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.
+Director: Kevin Costner | Stars: Kevin Costner, Mary McDonnell, Graham Greene, Rodney A. Grant
+Votes: 199,547 | Gross: $184.21M 
+2017-08-07 03:09:51,285 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:51,286 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:51,286 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:09:51,291 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:51,292 INFO  [Base_test] *************************************************** 
+2017-08-07 03:09:51,292 INFO  [Base_test] @Test: sort_using_alphabetical 
+2017-08-07 03:10:39,774 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. 3:10 to Yuma (2007)
+R | 122 min | Adventure, Crime, Drama
+7.7 Rate this
+76 Metascore
+A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.
+Director: James Mangold | Stars: Russell Crowe, Christian Bale, Ben Foster, Logan Lerman
+Votes: 250,791 | Gross: $53.57M 
+2017-08-07 03:10:39,774 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:39,775 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:39,775 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:10:39,776 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:39,777 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:39,777 INFO  [Base_test] @Test: sort_using_number_of_Votes 
+2017-08-07 03:10:42,890 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. Django Unchained (2012)
+R | 165 min | Drama, Western
+8.4 Rate this
+81 Metascore
+With the help of a German bounty hunter , a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.
+Director: Quentin Tarantino | Stars: Jamie Foxx, Christoph Waltz, Leonardo DiCaprio, Kerry Washington
+Votes: 1,057,066 | Gross: $162.80M 
+2017-08-07 03:10:42,890 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:42,891 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:42,891 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:10:42,891 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:42,891 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:42,891 INFO  [Base_test] @Test: sort_using_popularity 
+2017-08-07 03:10:46,515 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. The Magnificent Seven (2016)
+PG-13 | 132 min | Action, Adventure, Western
+6.9 Rate this
+54 Metascore
+Seven gunmen in the old west gradually come together to help a poor village against savage thieves.
+Director: Antoine Fuqua | Stars: Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio
+Votes: 131,909 | Gross: $93.38M 
+2017-08-07 03:10:46,515 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:46,516 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:46,516 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:10:46,516 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:46,516 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:46,516 INFO  [Base_test] @Test: sort_using_release_Date 
+2017-08-07 03:10:49,501 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. The Magnificent Seven (2016)
+PG-13 | 132 min | Action, Adventure, Western
+6.9 Rate this
+54 Metascore
+Seven gunmen in the old west gradually come together to help a poor village against savage thieves.
+Director: Antoine Fuqua | Stars: Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio
+Votes: 131,909 | Gross: $93.38M 
+2017-08-07 03:10:49,502 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:49,502 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:49,503 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:10:49,503 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:49,503 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:49,503 INFO  [Base_test] @Test: sort_using_runtime 
+2017-08-07 03:10:52,496 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. Giant (1956)
+Approved | 201 min | Drama, Western
+7.7 Rate this
+Sprawling epic covering the life of a Texas cattle rancher and his family and associates.
+Director: George Stevens | Stars: Elizabeth Taylor, Rock Hudson, James Dean, Carroll Baker
+Votes: 28,056 
+2017-08-07 03:10:52,496 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:52,501 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:52,501 INFO  [Base_test] @BeforeMethod: instantiate the Western​genre page 
+2017-08-07 03:10:52,502 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:52,502 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:52,502 INFO  [Base_test] @Test: sort_using_year 
+2017-08-07 03:10:55,311 INFO  [Base_test] the page returned movies list that contains more than one western movie and first movie in the list is: 1. The Magnificent Seven (2016)
+PG-13 | 132 min | Action, Adventure, Western
+6.9 Rate this
+54 Metascore
+Seven gunmen in the old west gradually come together to help a poor village against savage thieves.
+Director: Antoine Fuqua | Stars: Denzel Washington, Chris Pratt, Ethan Hawke, Vincent D'Onofrio
+Votes: 131,909 | Gross: $93.38M 
+2017-08-07 03:10:55,311 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:55,313 INFO  [Base_test] *************************************************** 
+2017-08-07 03:10:55,313 INFO  [Base_test] @BeforeClass: navigte to Top250 Page 
+2017-08-07 03:11:00,521 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:00,522 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:00,523 INFO  [Base_test] @BeforeMethod: instantiating Top250_Page 
+2017-08-07 03:11:00,523 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:00,529 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:00,529 INFO  [Base_test] @Test: return_movies_using_IMDb_Rating 
+2017-08-07 03:11:02,177 INFO  [Base_test] the page returned movies list that contains more than one movie and first movie in the list is: The Shawshank Redemption 
+2017-08-07 03:11:02,178 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:02,179 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:02,179 INFO  [Base_test] @BeforeMethod: instantiating Top250_Page 
+2017-08-07 03:11:02,179 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:02,180 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:02,180 INFO  [Base_test] @Test: return_movies_using_Ranking_sorting 
+2017-08-07 03:11:03,554 INFO  [Base_test] the page returned movies list that contains more than one movie and first movie in the list is: The Shawshank Redemption 
+2017-08-07 03:11:03,555 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:03,555 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:03,556 INFO  [Base_test] @BeforeMethod: instantiating Top250_Page 
+2017-08-07 03:11:03,556 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:03,556 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:03,556 INFO  [Base_test] @Test: return_movies_using_Release_Date 
+2017-08-07 03:11:04,894 INFO  [Base_test] the page returned movies list that contains more than one movie and first movie in the list is: Dunkirk 
+2017-08-07 03:11:04,895 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:04,896 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:04,896 INFO  [Base_test] @BeforeMethod: instantiating Top250_Page 
+2017-08-07 03:11:04,896 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:04,899 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:04,900 INFO  [Base_test] @Test: return_movies_using_number_of_ratings 
+2017-08-07 03:11:06,228 INFO  [Base_test] the page returned movies list that contains more than one movie and first movie in the list is: The Shawshank Redemption 
+2017-08-07 03:11:06,228 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:06,260 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:06,260 INFO  [Base_test] @BeforeMethod: instantiating Top250_Page 
+2017-08-07 03:11:06,260 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:06,261 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:06,261 INFO  [Base_test] @Test: return_movies_using_your_Ratings 
+2017-08-07 03:11:07,515 INFO  [Base_test] the page returned movies list that contains more than one movie and first movie in the list is: The Shawshank Redemption 
+2017-08-07 03:11:07,515 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:07,541 INFO  [Base_test] *************************************************** 
+2017-08-07 03:11:07,541 INFO  [Base_test] @AfterSuite: teardown the test suite 
+2017-08-07 03:11:07,541 INFO  [Base_test] *************************************************** 
